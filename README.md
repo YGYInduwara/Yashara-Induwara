@@ -10,7 +10,7 @@
 <br><br>
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🏫: I am an **Undergraduate** at **Faculty of Compuing** at [SLIIT](https://www.sliit.lk/) and also an **Undergraduate** at **Faculty of Science** at [University of Ruhuna](https://ruh.ac.lk/)
+- 🏫: I am an **Undergraduate** at **Faculty of Compuing** at [SLIIT](https://www.sliit.lk/) 
 
 - 🌱 I’m currently learning **React JS** 
 
