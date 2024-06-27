@@ -12,9 +12,9 @@
 
 - 🏫: I am an **Undergraduate** at **Faculty of Compuing** at [SLIIT](https://www.sliit.lk/) 
 
-- 🌱 I’m currently learning **React JS** 
+- 🌱 I’m currently learning **Docker** 
 
-- 👯 I’m looking to collaborate on **Java Project, Web development**
+- 👯 I’m looking to collaborate on **Kubernetics Project, Web development**
 
 - 📝 I regularly write articles on [yasharainduwara.blogspot.com](yasharainduwara.blogspot.com)
 
