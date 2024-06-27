@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [yasharainduwara.blogspot.com](yasharainduwara.blogspot.com)
 
-- 💬 Ask me about **Java,C and SQL**
+- 💬 Ask me about **Java,Database,AWS,Kubernetics,Docker,Ansible**
   
 - :computer: I’m currently open for a new `job opportunity`
   
