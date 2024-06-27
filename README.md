@@ -1,7 +1,7 @@
 
 <p align="center"> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px ></p>
 <h1 align="center" >Hi!<br> <a href="https://github.com/YGYInduwara">I'm Yashara Induwara<a></h1>
-<h3 align="center">Devops and CLoud Egineer | Passionate learner | Web Developer</h3>
+<h3 align="center">Devops and CLoud Engineer | Passionate learner | Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ygyinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="ygyinduwara" /> </p><br>
 <hr>
