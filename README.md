@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Java,Database,AWS,Kubernetics,Docker,Ansible**
   
-- :computer: I’m currently open for a new `job opportunity`
+- :computer: I’m currently working at `N-able`
   
 - 📫 How to reach me **yasharaiduwara@gmail.com**
 <br>
